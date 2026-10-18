@@ -1,4 +1,4 @@
-# Linux Day 4: Machine Tests
+# Linux Day 5,6,7,8: Machine Tests
 
 DevOps Linux Fundamentals (Day 4) machine tests, completed on Ubuntu (WSL).
 
